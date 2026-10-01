@@ -1,0 +1,6 @@
+{
+  "name": "ChronoStage - Таймер Мероприятий & Расписание",
+  "description": "Кроссплатформенный таймер для проведения программ, совещаний, докладов и тренировок с расписанием, режимом ведущего и аудио-оповещениями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
